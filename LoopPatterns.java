@@ -325,6 +325,7 @@ public class LoopPatterns {
 				newPicture.set(x, y, greyPixel);
 			}
 		}
+		
 		return newPicture;
 	}
 }
